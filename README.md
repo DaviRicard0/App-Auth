@@ -5,7 +5,7 @@
   <li>Angular Material;</li>
 </ul>
 
-![image](https://github.com/DaviRicard0/App-Auth/assets/108695671/5c58a157-bdca-44e6-ba0f-649cd42ded97)
+![image](https://github.com/DaviRicard0/App-Auth/assets/108695671/13dbf366-1838-4fa3-9305-1375b52bdf1c)
 <hr/>
 <h4>Backend:</h4>
 <ul>
@@ -16,4 +16,5 @@
   <li>JWT;</li>
 </ul>
 
-![image](https://github.com/DaviRicard0/App-Auth/assets/108695671/84554b22-226f-4353-af98-a34d7df2d875)
+![image](https://github.com/DaviRicard0/App-Auth/assets/108695671/72eaceac-8782-43d4-bac0-bf7052c0acd9)
+

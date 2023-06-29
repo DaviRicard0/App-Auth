@@ -340,9 +340,13 @@
     <input id="loginEmail" [(ngModel)]="loginDto.email" />
   </div>
   <div>
-    <label for="loginPassword">Email:</label>
+    <label for="loginPassword">Password:</label>
     <input id="loginPassword" [(ngModel)]="loginDto.password" />
   </div>
+  <div>
+    <button mat-raised-button (click)="login(loginDto)">Login</button>
+  </div>
+  <br />
   <div>
     <button mat-raised-button (click)="getWeather()">Get Weather</button>
   </div>

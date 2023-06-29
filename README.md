@@ -5,7 +5,7 @@
   <li>Angular Material;</li>
 </ul>
 
-![image](https://github.com/DaviRicard0/App-Auth/assets/108695671/13dbf366-1838-4fa3-9305-1375b52bdf1c)
+![image](https://github.com/DaviRicard0/App-Auth/assets/108695671/f1e0e3d5-d49b-4c7e-a06e-cbc04dcdcdae)
 <hr/>
 <h4>Backend:</h4>
 <ul>
